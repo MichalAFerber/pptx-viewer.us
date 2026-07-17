@@ -1,0 +1,18 @@
+{
+  "name": "PPTX Viewer",
+  "short_name": "PPTX Viewer",
+  "description": "A fast, single-file PowerPoint viewer. Drop a .pptx to read the deck slide by slide in your browser \u2014 text, layout and images, nothing uploaded.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

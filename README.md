@@ -73,6 +73,7 @@ media, master-slide backgrounds) are simplified or omitted.
 | --- | --- | --- |
 | [JSZip](https://github.com/Stuk/jszip) | 3.10.1 | MIT |
 | [pako](https://github.com/nodeca/pako) (bundled in JSZip) | 1.0.x | MIT |
+| [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) (subset, `fonts/`) | — | SIL OFL-1.1 |
 
 The OOXML slide reader is original to this project. The file-type icon is from
 [vscode-icons](https://github.com/vscode-icons/vscode-icons) (MIT). Analytics by
